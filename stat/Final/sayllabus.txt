@@ -1,0 +1,7 @@
+Stat:
+Chapter 4 
+Measure of dispersion 
+Regrassion 
+Corelation 
+Single mean testing with z 
+Variance 

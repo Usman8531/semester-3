@@ -1,0 +1,98 @@
+1. Waterfall Model : 
+It requires a well understanding and knowledge of requirements and technology related to it. 
+
+Advantages : 
+ 
+
+
+It is very easy and convenient to implement the waterfall model.
+For implementation of small systems, it is very useful.
+Disadvantages : 
+ 
+
+It may cause some confusion if some of the changes are made at some phases.
+Firstly, the requirement analysis is done and in the beginning, sometimes it is not possible to state all the requirements explicitly.
+Only at the end, the customer can see the working model of the project.
+Linear nature of the waterfall model induces blocking states.
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+2. Spiral Model : 
+It is developed in iterations and used for risk management. Hence, at new iterations, the requirements can be recognized. 
+
+Advantages : 
+ 
+
+By construction of prototype, the working model of the system can be designed quickly.
+During the development stage, Project can be refined by developer and user.
+Involvement of user in the project.
+It is very Cost-effective and easy to maintain.
+Risk analysis and reduction can be done systematically and in a proper manner.
+Well planned and efficient project development.
+Disadvantages : 
+ 
+
+In series of increments, Software gets developed.
+If communication with customer is not well or proper then it results in total project failure or non-success or project that might leads to omission of the project.
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+3. Incremental Model : 
+It is a process of software development and focuses on short successive iterations. 
+
+Advantages : 
+ 
+
+If less number of people are available for project development, then this model is very useful.
+Technical risks can be managed effectively and in a well-organized manner.
+The core or final product can be shown to the customer within a small duration of time.
+Disadvantages : 
+ 
+
+Highly and fully committed developers and customers are required for this project.
+Adopting new technologies and developing the project using this model is very difficult and problematic.
+Heavy resources can be required.
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+4: Sequential V-model:
+Advantages of V-model:
+
+Simple and easy to use.
+Testing activities like planning, test designing happens well before coding. This saves a lot of time. Hence higher chance of success over the waterfall model.
+Proactive defect tracking – that is defects are found at early stage.
+Avoids the downward flow of the defects.
+Works well for small projects where requirements are easily understood.
+Disadvantages of V-model:
+
+Very rigid and least flexible.
+Software is developed during the implementation phase, so no early prototypes of the software are produced.
+If any changes happen in midway, then the test documents along with requirement documents has to be updated.
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+5: Prototype Model
+Advantages of using Prototype Model :
+
+This model is flexible in design.
+It is easy to detect errors.
+We can find missing functionality easily.
+There is scope of refinement, it means new requirements can be easily accommodated.
+It can be reused by the developer for more complicated projects in the future.
+It ensures a greater level of customer satisfaction and comfort.
+It is ideal for online system.
+It helps developers and users both understand the system better.
+Integration requirements are very well understood and deployment channels are decided at a very early stage.
+It can actively involve users in the development phase.
+Disadvantages of using Prototype Model :
+
+This model is costly.
+It has poor documentation because of continuously changing customer requirements.
+There may be too much variation in requirements.
+Customers sometimes demand the actual product to be delivered soon after seeing an early prototype.
+There may be sub-optimal solutions because of developers in a hurry to build prototypes.
+Customers may not be satisfied or interested in the product after seeing the initial prototype.
+There is certainty in determining the number of iterations.
+There may be incomplete or inadequate problem analysis.
+There may increase the complexity of the system.
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
